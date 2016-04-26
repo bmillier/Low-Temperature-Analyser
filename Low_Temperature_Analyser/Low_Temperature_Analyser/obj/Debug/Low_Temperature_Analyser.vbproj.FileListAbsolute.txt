@@ -1,0 +1,10 @@
+C:\Users\bmill\Documents\Visual Studio 2015\Projects\Low_Temperature_Analyser\Low_Temperature_Analyser\bin\Debug\Low_Temperature_Analyser.exe.config
+C:\Users\bmill\Documents\Visual Studio 2015\Projects\Low_Temperature_Analyser\Low_Temperature_Analyser\bin\Debug\Low_Temperature_Analyser.exe
+C:\Users\bmill\Documents\Visual Studio 2015\Projects\Low_Temperature_Analyser\Low_Temperature_Analyser\bin\Debug\Low_Temperature_Analyser.pdb
+C:\Users\bmill\Documents\Visual Studio 2015\Projects\Low_Temperature_Analyser\Low_Temperature_Analyser\bin\Debug\Low_Temperature_Analyser.xml
+C:\Users\bmill\Documents\Visual Studio 2015\Projects\Low_Temperature_Analyser\Low_Temperature_Analyser\obj\Debug\WindowsApplication1.Com.resources
+C:\Users\bmill\Documents\Visual Studio 2015\Projects\Low_Temperature_Analyser\Low_Temperature_Analyser\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\bmill\Documents\Visual Studio 2015\Projects\Low_Temperature_Analyser\Low_Temperature_Analyser\obj\Debug\Low_Temperature_Analyser.vbproj.GenerateResource.Cache
+C:\Users\bmill\Documents\Visual Studio 2015\Projects\Low_Temperature_Analyser\Low_Temperature_Analyser\obj\Debug\Low_Temperature_Analyser.exe
+C:\Users\bmill\Documents\Visual Studio 2015\Projects\Low_Temperature_Analyser\Low_Temperature_Analyser\obj\Debug\Low_Temperature_Analyser.xml
+C:\Users\bmill\Documents\Visual Studio 2015\Projects\Low_Temperature_Analyser\Low_Temperature_Analyser\obj\Debug\Low_Temperature_Analyser.pdb
